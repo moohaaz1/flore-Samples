@@ -1,0 +1,33 @@
+header {
+  background: url(./imges/Capture\ -back-cover.PNG) no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: top;
+}
+header h1 {
+  font-size: 80px;
+}
+header p {
+  font-size: 20px;
+}
+.all h1 {
+  color: rgba(122, 0, 86, 0.651);
+}
+.all p {
+  color: rgb(63, 63, 63);
+}
+.all span {
+  color: rgb(255, 81, 0);
+}
+.textt {
+  text-align: center;
+  font-size: 30px;
+}
+.media img {
+  width: 200px;
+}
+.tell img:hover {
+  box-shadow: 0 0 15px rgb(255, 0, 106);
+  transform: translateY(-15px);
+  transition: 0.5s;
+}
